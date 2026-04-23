@@ -61,3 +61,7 @@ This project explores how unsupervised learning can be used to identify patterns
 - Open the Jupyter Notebook
 - Run cells sequentially from preprocessing → clustering → analysis
 - Ensure required libraries are installed (scikit-learn, kmodes, etc.)
+
+
+## Presentation Link
+https://prezi.com/view/E3v0VzaVWze2safH8FFA/?referral_token=UKwcIflnB3FN
